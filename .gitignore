@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Agents
+.agent
+.agents
+.claude
+.codex
+.opencode
+.impeccable
